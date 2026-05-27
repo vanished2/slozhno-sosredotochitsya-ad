@@ -4,7 +4,7 @@
 
 ## Репозиторий
 Ссылка на репозиторий:
-[https://github.com/vanished2/slozhno-sosredotochitsya-ad](https://github.com/vanished2/slozhno-sosredotochitsya-ad)
+https://github.com/vanished2/slozhno-sosredotochitsya-ad
 
 ## Стек
 
